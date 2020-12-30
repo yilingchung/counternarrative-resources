@@ -1,4 +1,4 @@
-# Counter narrative resources
+# Counter narrative reading list
 
 This page collects publications related to **hate speech mitigation**, in particular through counter narratives. (Update on **Dec 29th, 2020**) <br>
 
