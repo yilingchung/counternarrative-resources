@@ -68,6 +68,6 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 - [Italian Counter Narrative Generation to Fight Online Hate Speech](http://ceur-ws.org/Vol-2769/paper_35.pdf) Yi-Ling Chung, Serra S. Tekiroglu, Marco Guerini. 2020. Seventh Italian Conference on Computational Linguistics. 
 
-## Acknowledgement
+## Miscellaneous
 
 This page is maintained by [Yi-Ling Chung](https://yilingchung.github.io).
