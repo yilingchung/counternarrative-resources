@@ -7,13 +7,13 @@ Relevant works will be continuously updated to this list.
 If you are interested in studies on content moderation in general, visit [content moderation on social media platforms](https://socialmediacollective.org/reading-lists/content-moderation-reading-list/).
 
 ## Table of Contents
-- [Survey paper on hate speech](#https://github.com/yilingchung/counternarrative-resources#survey-paper-on-hate-speech)
-- [Intro to counter narratives](#https://github.com/yilingchung/counternarrative-resources#intro-to-counter-narratives)
-- [The effects of counter narratives](#https://github.com/yilingchung/counternarrative-resources#the-effects-of-counter-narratives)
-- [Characteristics of counter narratives](#https://github.com/yilingchung/counternarrative-resources#characteristics-of-counter-narratives)
-- [Counter narrative datasets](#https://github.com/yilingchung/counternarrative-resources#counter-narrative-datasets)
-- [Counter narrative generation](#https://github.com/yilingchung/counternarrative-resources#counter-narrative-generation)
-- [Hate countering platform](#https://github.com/yilingchung/counternarrative-resources#hate-countering-platform)
+- [Survey paper on hate speech](https://github.com/yilingchung/counternarrative-resources#survey-paper-on-hate-speech)
+- [Intro to counter narratives](https://github.com/yilingchung/counternarrative-resources#intro-to-counter-narratives)
+- [The effects of counter narratives](https://github.com/yilingchung/counternarrative-resources#the-effects-of-counter-narratives)
+- [Characteristics of counter narratives](https://github.com/yilingchung/counternarrative-resources#characteristics-of-counter-narratives)
+- [Counter narrative datasets](https://github.com/yilingchung/counternarrative-resources#counter-narrative-datasets)
+- [Counter narrative generation](https://github.com/yilingchung/counternarrative-resources#counter-narrative-generation)
+- [Hate countering platform](https://github.com/yilingchung/counternarrative-resources#hate-countering-platform)
 
 ## Survey paper on hate speech
 
