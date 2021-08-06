@@ -7,13 +7,13 @@ Relevant works will be continuously updated to this list.
 If you are interested in studies on content moderation in general, visit [content moderation on social media platforms](https://socialmediacollective.org/reading-lists/content-moderation-reading-list/).
 
 ## Table of Contents
-- [Survey paper on hate speech](#Survey paper on hate speech)
-- [Intro to counter narratives](#Intro to counter narratives)
-- [The effects of counter narratives](#The effects of counter narratives)
-- [Characteristics of counter narratives](#Characteristics of counter narratives)
-- [Counter narrative datasets](#Counter narrative datasets)
-- [Counter narrative generation](#Counter narrative generation)
-- [Hate countering platform](#Hate countering platform)
+- [Survey paper on hate speech](#https://github.com/yilingchung/counternarrative-resources#survey-paper-on-hate-speech)
+- [Intro to counter narratives](#https://github.com/yilingchung/counternarrative-resources#intro-to-counter-narratives)
+- [The effects of counter narratives](#https://github.com/yilingchung/counternarrative-resources#the-effects-of-counter-narratives)
+- [Characteristics of counter narratives](#https://github.com/yilingchung/counternarrative-resources#characteristics-of-counter-narratives)
+- [Counter narrative datasets](#https://github.com/yilingchung/counternarrative-resources#counter-narrative-datasets)
+- [Counter narrative generation](#https://github.com/yilingchung/counternarrative-resources#counter-narrative-generation)
+- [Hate countering platform](#https://github.com/yilingchung/counternarrative-resources#hate-countering-platform)
 
 ## Survey paper on hate speech
 
@@ -34,7 +34,7 @@ If you are interested in studies on content moderation in general, visit [conten
 
 ## The effects of counter narratives
 
-- [Empowering NGOs in Countering Online Hate Messages.](https://authors.elsevier.com/c/1dKoz_u8RHKhr0) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media (OSNM) 2021, 24, 100150
+- [Empowering NGOs in Countering Online Hate Messages.](https://authors.elsevier.com/c/1dKoz_u8RHKhr0) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
 
 - [Do counter-narratives reduce support for ISIS? Yes, but not for their target audience](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01059/full) Bélanger, Jocelyn J., et al. 2020. Frontiers in Psychology 11 : 1059.
 
@@ -61,7 +61,7 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 ## Counter narrative datasets
 
--[simulated] [Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech](https://aclanthology.org/2021.acl-long.250/) Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL 2021.
+- [simulated] [Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech](https://aclanthology.org/2021.acl-long.250/) Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL 2021.
 
 - [simulated] [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra S. Tekiroglu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
 
@@ -85,7 +85,7 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 ## Hate countering platform
 
-- [Empowering NGOs in Countering Online Hate Messages.](https://authors.elsevier.com/c/1dKoz_u8RHKhr0) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media (OSNM) 2021, 24, 100150
+- [Empowering NGOs in Countering Online Hate Messages.](https://authors.elsevier.com/c/1dKoz_u8RHKhr0) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
 
 ## Miscellaneous
 
