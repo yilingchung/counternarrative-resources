@@ -14,6 +14,7 @@ If you are interested in studies on content moderation in general, visit [conten
 - [Counter narrative datasets](https://github.com/yilingchung/counternarrative-resources#counter-narrative-datasets)
 - [Counter narrative generation](https://github.com/yilingchung/counternarrative-resources#counter-narrative-generation)
 - [Hate countering platform](https://github.com/yilingchung/counternarrative-resources#hate-countering-platform)
+- [Miscellaneous](https://github.com/yilingchung/counternarrative-resources#Miscellaneous)
 
 ## Survey paper on hate speech
 
@@ -58,6 +59,8 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 ## Characteristics of counter narratives
 
 - [Analyzing the hate and counter speech accounts on twitter](https://arxiv.org/pdf/1812.02712.pdf) Mathew, Binny, et al. 2018. arXiv preprint arXiv:1812.02712 
+
+- [Considerations for successful counterspeech](https://dangerousspeech.org/wp-content/uploads/2016/10/Considerations-for-Successful-Counterspeech.pdf) Susan Benesch, Derek Ruths, Kelly P Dillon, Haji M. Saleem and Lucas Wright. 2016.
 
 ## Counter narrative datasets
 
