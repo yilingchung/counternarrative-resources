@@ -66,7 +66,7 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 - [simulated] [Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech](https://aclanthology.org/2021.acl-long.250/) Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL 2021.
 
-- [simulated] [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra S. Tekiroğlu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
+- [simulated] [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra Sinem Tekiroğlu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
 
 - [real] [A benchmark dataset for learning to intervene in online hate speech](https://www.aclweb.org/anthology/D19-1482.pdf) Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Y. Wang. In EMNLP 2019.
 
@@ -78,11 +78,11 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
  
 ## Counter narrative generation
 
-- [Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.](https://aclanthology.org/2021.findings-acl.79/) Yi-Ling Chung, Serra S. Tekiroğlu, and Marco Guerini. In ACL Findings 2021. 
+- [Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.](https://aclanthology.org/2021.findings-acl.79/) Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL Findings 2021. 
 
-- [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra S. Tekiroğlu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
+- [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra Sinem Tekiroğlu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
 
-- [Italian Counter Narrative Generation to Fight Online Hate Speech](http://ceur-ws.org/Vol-2769/paper_35.pdf) Yi-Ling Chung, Serra S. Tekiroğlu, and Marco Guerini. 2020. Seventh Italian Conference on Computational Linguistics. 
+- [Italian Counter Narrative Generation to Fight Online Hate Speech](http://ceur-ws.org/Vol-2769/paper_35.pdf) Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. 2020. Seventh Italian Conference on Computational Linguistics. 
 
 - [A benchmark dataset for learning to intervene in online hate speech](https://www.aclweb.org/anthology/D19-1482.pdf) Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Y. Wang. In EMNLP 2019.
 
