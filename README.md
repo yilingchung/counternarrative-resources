@@ -64,13 +64,13 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 ## Counter narrative datasets
 
-- [simulated] [Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech](https://aclanthology.org/2021.acl-long.250/) Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL 2021.
+- [hybrid] [Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech](https://aclanthology.org/2021.acl-long.250/) Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL 2021.
 
-- [simulated] [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra Sinem Tekiroğlu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
+- [synthetic] [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra Sinem Tekiroğlu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
 
-- [real] [A benchmark dataset for learning to intervene in online hate speech](https://www.aclweb.org/anthology/D19-1482.pdf) Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Y. Wang. In EMNLP 2019.
+- [crowdsourced] [A benchmark dataset for learning to intervene in online hate speech](https://www.aclweb.org/anthology/D19-1482.pdf) Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Y. Wang. In EMNLP 2019.
 
-- [simulated] [CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech](https://www.aclweb.org/anthology/P19-1271.pdf) Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL 2019. 
+- [nichesourced] [CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech](https://www.aclweb.org/anthology/P19-1271.pdf) Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL 2019. 
 
 - [real] [Thou shalt not hate: Countering online hate speech](https://ojs.aaai.org/index.php/ICWSM/article/view/3237/3105) Mathew, Binny et al. 2019. Proceedings of the International AAAI Conference on Web and Social Media. Vol. 13.
 
