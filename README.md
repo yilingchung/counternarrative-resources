@@ -58,6 +58,8 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 ## Characteristics of counter narratives
 
+- [Multilingual Counter Narrative Type Classification](https://arxiv.org/abs/2109.13664) Yi-Ling Chung, Marco Guerini and Rodrigo Agerri. Workshop on Argument Mining 2021.
+
 - [Analyzing the hate and counter speech accounts on twitter](https://arxiv.org/pdf/1812.02712.pdf) Mathew, Binny, et al. 2018. arXiv preprint arXiv:1812.02712 
 
 - [Considerations for successful counterspeech](https://dangerousspeech.org/wp-content/uploads/2016/10/Considerations-for-Successful-Counterspeech.pdf) Susan Benesch, Derek Ruths, Kelly P Dillon, Haji M. Saleem and Lucas Wright. 2016.
