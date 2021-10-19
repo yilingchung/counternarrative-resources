@@ -1,6 +1,6 @@
 # Counter narrative reading list
 
-This page collects publications related to **hate speech mitigation**, in particular through counter narratives. (Update on **Aug 6th, 2021**) <br>
+This page collects publications related to **hate speech mitigation**, in particular through counter narratives. (Update on **Oct 19th, 2021**) <br>
 
 Relevant works will be continuously updated to this list. 
 
@@ -79,6 +79,8 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 ## Counter narrative generation
 
 - [Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.](https://aclanthology.org/2021.findings-acl.79/) Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL Findings 2021. 
+
+- [Generate, Prune, Select: A Pipeline for Counterspeech Generation against Online Hate Speech](https://aclanthology.org/2021.findings-acl.12/) Wanzheng Zhu and Suma Bhat. In ACL Findings 2021.
 
 - [Generating Counter Narratives against Online Hate Speech: Data and Strategies](https://www.aclweb.org/anthology/2020.acl-main.110.pdf) Serra Sinem Tekiroğlu, Yi-Ling Chung, and Marco Guerini. In ACL 2020. 
 
