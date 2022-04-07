@@ -92,7 +92,7 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 ## Hate countering platform
 
-- [Empowering NGOs in Countering Online Hate Messages.](https://authors.elsevier.com/c/1dKoz_u8RHKhr0) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
+- [Empowering NGOs in Countering Online Hate Messages.](https://arxiv.org/pdf/2107.02472.pdf) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
 
 ## Miscellaneous
 
