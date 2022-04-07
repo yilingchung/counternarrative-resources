@@ -35,7 +35,7 @@ If you are interested in studies on content moderation in general, visit [conten
 
 ## The effects of counter narratives
 
-- [Empowering NGOs in Countering Online Hate Messages.](https://authors.elsevier.com/c/1dKoz_u8RHKhr0) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
+- [Empowering NGOs in Countering Online Hate Messages.](https://arxiv.org/pdf/2107.02472.pdf) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
 
 - [Do counter-narratives reduce support for ISIS? Yes, but not for their target audience](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01059/full) Bélanger, Jocelyn J., et al. 2020. Frontiers in Psychology 11 : 1059.
 
@@ -58,7 +58,7 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
 
 ## Characteristics of counter narratives
 
-- [Multilingual Counter Narrative Type Classification](https://arxiv.org/abs/2109.13664) Yi-Ling Chung, Marco Guerini and Rodrigo Agerri. Workshop on Argument Mining 2021.
+- [Multilingual Counter Narrative Type Classification](https://aclanthology.org/2021.argmining-1.12.pdf) Yi-Ling Chung, Marco Guerini and Rodrigo Agerri. Workshop on Argument Mining 2021.
 
 - [Analyzing the hate and counter speech accounts on twitter](https://arxiv.org/pdf/1812.02712.pdf) Mathew, Binny, et al. 2018. arXiv preprint arXiv:1812.02712 
 
@@ -80,7 +80,7 @@ Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23.
  
 ## Counter narrative generation
 
-- [Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.](https://aclanthology.org/2021.findings-acl.79/) Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL Findings 2021. 
+- [Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.](https://aclanthology.org/2021.findings-acl.79.pdf) Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini. In ACL Findings 2021. 
 
 - [Generate, Prune, Select: A Pipeline for Counterspeech Generation against Online Hate Speech](https://aclanthology.org/2021.findings-acl.12/) Wanzheng Zhu and Suma Bhat. In ACL Findings 2021.
 
