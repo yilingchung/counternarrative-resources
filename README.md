@@ -1,6 +1,6 @@
 # Counter narrative reading list
 
-This page collects publications related to **hate speech mitigation**, in particular through counter narratives. (Update on **Oct 19th, 2021**) <br>
+This page collects publications related to **hate speech mitigation**, in particular through counter narratives (or counter speech). (Update on **May 11th, 2022**) <br>
 
 Relevant works will be continuously updated to this list. 
 
@@ -38,6 +38,8 @@ If you are interested in studies on content moderation in general, visit [conten
 - [New Models for Deploying Counterspeech: Measuring Behavioral Change and Sentiment Analysis.](https://www.tandfonline.com/doi/pdf/10.1080/1057610X.2021.1888404?needAccess=true) Erin Saltman, Farshad Kooti & Karly Vockery. 2021. Studies in Conflict & Terrorism.
 
 - [Empowering NGOs in Countering Online Hate Messages.](https://arxiv.org/pdf/2107.02472.pdf) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
+
+-[Countering Terrorist Narratives: Assessing the Efficacy and Mechanisms of Change in Counter-narrative Strategies.](https://www.tandfonline.com/doi/full/10.1080/09546553.2021.1962308) S. L. Carthy and K. M. Sarma. 2021. Terrorism and Political Violence: 1-25
 
 - [Do counter-narratives reduce support for ISIS? Yes, but not for their target audience](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01059/full) Bélanger, Jocelyn J., et al. 2020. Frontiers in Psychology 11 : 1059.
 
