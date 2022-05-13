@@ -56,7 +56,9 @@ If you are interested in studies on content moderation in general, visit [conten
 - [Governing hate speech by means of counterspeech on facebook](https://www.researchgate.net/profile/Carla_Schieb/publication/303497937_Governing_hate_speech_by_means_of_counterspeech_on_Facebook/links/5761575408aeeada5bc4f783/Governing-hate-speech-by-means-of-counterspeech-on-Facebook.pdf) Carla Schieb and Mike
 Preuss. 2016. In 66th ICA annual conference, at Fukuoka, Japan, pages 1–23. 
 
-- [The impact of counter-narratives](http://www.isdglobal.org/de/wp-content/uploads/sites/6/2016/08/Impact-of-Counter-Narratives_ONLINE_1.pdf) Silverman, Tanya, et al. 2016. Institute for Strategic Dialogue, pages 1–54.
+- [The impact of counter-narratives](http://www.isdglobal.org/de/wp-content/uploads/sites/6/2016/08/Impact-of-Counter-Narratives_ONLINE_1.pdf) Silverman, Tanya, et al. 2016. Institute for Strategic Dialogue.
+
+- [The Counter-Narrative Monitoring & Evaluation Handbook](https://www.isdglobal.org/wp-content/uploads/2017/06/CN-Monitoring-and-Evaluation-Handbook.pdf) Louis Reynolds and Henry Tuck. 2016. Institute for Strategic Dialogue.
 
 - [Counterspeech on Twitter: A field study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) Benesch, Susan, et al. 2016. A report for Public Safety Canada under the Kanishka Project.
 
