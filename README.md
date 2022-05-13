@@ -45,7 +45,7 @@ If you are interested in studies on content moderation in general, visit [conten
 
 - [Toxic Misogyny and the Limits of Counterspeech](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5607&context=flr) Lynne Tirrell. 2019. Fordham L. Rev. 87 : 2433. 
 
-- [The varieties of feminist counterspeech in the misogynistic online world](https://www.researchgate.net/profile/Paromita_Pain/publication/323146855_NastyWomen_Reclaiming_the_Twitterverse_from_Misogyny/links/5abbc1b20f7e9bfc045592c9/NastyWomen-Reclaiming-the-Twitterverse-from-Misogyny.pdf#page=305) Scott R Stroud and William Cox. 2018. In Mediating Misogyny, pages 293–310. Springer.
+- [The varieties of feminist counterspeech in the misogynistic online world](https://link.springer.com/chapter/10.1007/978-3-319-72917-6_15) Scott R Stroud and William Cox. 2018. In Mediating Misogyny, pages 293–310. Springer.
 
 - [Hate beneath the counter speech? a qualitative content analysis of user comments on youtube related to counter speech videos.](https://epub.ub.uni-muenchen.de/68792/1/Rieger_Hate_beneath%20_the_counter_speech.pdf) Ernst, Julian, et al. 2017. Journal for Deradicalization 10 : 1-49.
 
