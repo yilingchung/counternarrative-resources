@@ -39,7 +39,7 @@ If you are interested in studies on content moderation in general, visit [conten
 
 - [Empowering NGOs in Countering Online Hate Messages.](https://arxiv.org/pdf/2107.02472.pdf) Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini. Online Social Networks and Media 2021, 24, 100150.
 
--[Countering Terrorist Narratives: Assessing the Efficacy and Mechanisms of Change in Counter-narrative Strategies.](https://www.tandfonline.com/doi/full/10.1080/09546553.2021.1962308) S. L. Carthy and K. M. Sarma. 2021. Terrorism and Political Violence: 1-25
+- [Countering Terrorist Narratives: Assessing the Efficacy and Mechanisms of Change in Counter-narrative Strategies.](https://www.tandfonline.com/doi/full/10.1080/09546553.2021.1962308) S. L. Carthy and K. M. Sarma. 2021. Terrorism and Political Violence: 1-25
 
 - [Do counter-narratives reduce support for ISIS? Yes, but not for their target audience](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01059/full) Bélanger, Jocelyn J., et al. 2020. Frontiers in Psychology 11 : 1059.
 
